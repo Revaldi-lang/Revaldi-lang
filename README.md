@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Revaldi Firdaus</h1><br><h3 align="center">Information Systems student navigating the intersection of enterprise business logic, backend development, and network security. ---</h3><br><br>- 🔭 I’m currently working on Java OOP and Backend Architecture Exercises<br><br>- 🌱 I’m currently learning Advanced Java, Enterprise Application Integration, and Security Automation<br><br>- 🤝 I’m looking for help with Advanced Network Traffic Monitoring and Mitigation Strategies<br><br>- 💬 Ask me about Java (OOP), Django JWT Auth, Snort/Suricata, and ERP Data Mapping<br><br>- 📫 How to reach me : revaldifirdaus28@gmail.com
+<h1 align="center">Hi 👋, I'm Revaldi Firdaus</h1><br><h3 align="center">Information Systems student navigating the intersection of enterprise business logic, backend development, and network security. </h3><br><br>- 🔭 I’m currently working on Java OOP and Backend Architecture Exercises<br><br>- 🌱 I’m currently learning Advanced Java, Enterprise Application Integration, and Security Automation<br><br>- 🤝 I’m looking for help with Advanced Network Traffic Monitoring and Mitigation Strategies<br><br>- 💬 Ask me about Java (OOP), Django JWT Auth, Snort/Suricata, and ERP Data Mapping<br><br>- 📫 How to reach me : revaldifirdaus28@gmail.com
 
 
 ## 🌐 Socials:
