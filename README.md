@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="NAMA_FILE_FOTO_ANDA" width="100%" alt="Cute Cats Looking Down" style="border-radius: 10px;" />
+  <img src="https://github.com/user-attachments/assets/24b50309-ee18-40d5-9d33-1ba72934f56d" width="100%" alt="Cute Cats Looking Down" style="border-radius: 10px;" />
 </p>
 
 ---
