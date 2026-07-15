@@ -131,6 +131,5 @@ I'm always open to discussing web development, collaboration opportunities, or i
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
-  ⭐️ Design adapted for <b>Revaldi Firdaus</b>
 </p>
 
