@@ -1,4 +1,4 @@
-# Hi there, I'm Revaldi Firdaus
+# Hi there, I'm Revaldi Firdaus 
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="<img width="1200" height="672" alt="d90890b88dc8d0dc87453a83bccce9d7" src="https://github.com/user-attachments/assets/d5190061-40ce-4a4e-81c7-a8229d707528" />
-" width="100%" alt="Cute Cats Looking Down" style="border-radius: 10px;" />
+  <img src="NAMA_FILE_FOTO_ANDA" width="100%" alt="Cute Cats Looking Down" style="border-radius: 10px;" />
 </p>
 
 ---
