@@ -97,13 +97,13 @@ To build seamless web applications, I utilize a diverse set of technologies, fra
 
 <p align="center">
   <a href="https://github.com/Revaldi-lang">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Revaldi-lang&show_icons=true&theme=tokyonight&locale=en&hide_border=false" alt="Revaldi's GitHub Stats" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api?username=Revaldi-lang&show_icons=true&theme=tokyonight&locale=en&hide_border=false" alt="Revaldi's GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Revaldi-lang">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revaldi-lang&layout=compact&theme=tokyonight&locale=en&hide_border=false" alt="Top Languages" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Revaldi-lang&layout=compact&theme=tokyonight&locale=en&hide_border=false" alt="Top Languages" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Revaldi-lang">
@@ -132,4 +132,3 @@ I'm always open to discussing web development, collaboration opportunities, or i
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
 </p>
-
