@@ -6,6 +6,11 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="<img width="1200" height="672" alt="d90890b88dc8d0dc87453a83bccce9d7" src="https://github.com/user-attachments/assets/fe7af777-606f-4dad-a7f2-2a31171ccb90" />
+" width="100%" alt="Cute Cats Looking Down" style="border-radius: 10px;" />
+</p>
+
 ---
 
 ### 💫 About Me
@@ -132,3 +137,5 @@ I'm always open to discussing web development, collaboration opportunities, or i
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
 </p>
+<img width="1200" height="672" alt="d90890b88dc8d0dc87453a83bccce9d7" src="https://github.com/user-attachments/assets/4644fc2d-6f15-4ad3-9c32-cc250328a601" />
+<img width="1200" height="672" alt="d90890b88dc8d0dc87453a83bccce9d7" src="https://github.com/user-attachments/assets/fefba248-9265-4a10-8273-8b228fea6f00" />
