@@ -70,13 +70,13 @@ To build seamless web applications, I utilize a diverse set of technologies, fra
   <tr>
     <td align="center" width="96">
       <a href="https://playwright.dev/">
-        <img src="https://skillicons.dev/icons?i=playwright" width="48" height="48" alt="Playwright" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="48" height="48" alt="Playwright" />
       </a>
       <br />Playwright
     </td>
     <td align="center" width="96">
       <a href="https://www.atlassian.com/software/jira">
-        <img src="https://skillicons.dev/icons?i=ae" width="48" height="48" alt="Jira" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
       </a>
       <br />Jira
     </td>
