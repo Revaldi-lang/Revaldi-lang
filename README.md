@@ -49,19 +49,25 @@ To build seamless web applications, I utilize a diverse set of technologies, fra
       <br />JavaScript
     </td>
     <td align="center" width="96">
+      <a href="https://www.typescriptlang.org/">
+        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br />TypeScript
+    </td>
+    <td align="center" width="96">
       <a href="https://react.dev/">
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
       </a>
       <br />React
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="https://nextjs.org/">
         <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
       </a>
       <br />Next.js
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="https://www.python.org/">
         <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
@@ -85,6 +91,20 @@ To build seamless web applications, I utilize a diverse set of technologies, fra
         <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
       </a>
       <br />Supabase
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://playwright.dev/">
+        <img src="https://skillicons.dev/icons?i=playwright" width="48" height="48" alt="Playwright" />
+      </a>
+      <br />Playwright
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.atlassian.com/software/jira">
+        <img src="https://skillicons.dev/icons?i=jira" width="48" height="48" alt="Jira" />
+      </a>
+      <br />Jira
     </td>
     <td align="center" width="96">
       <a href="https://www.figma.com/">
