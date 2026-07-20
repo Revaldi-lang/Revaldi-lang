@@ -1,29 +1,3 @@
-# Hi there, I'm Revaldi Firdaus 
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3ECF8E&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Revaldi+Firdaus;Information+Systems+Student;Web+Development+Enthusiast;Seeking+Internship+Opportunities" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/24b50309-ee18-40d5-9d33-1ba72934f56d" width="100%" alt="Cute Cats Looking Down" style="border-radius: 10px;" />
-</p>
-
----
-
-### 💫 About Me
-
-I am a passionate **Information Systems Student** dedicated to building modern, responsive, and user-centric web applications. Currently, I'm focusing my learning on modern web development tech stacks and actively looking for **Web Developer Internship** opportunities to apply my skills, learn from industry experts, and contribute to impactful projects.
-
-- 🎓 Studying **Information Systems** (Sistem Informasi).
-- 💻 Deep diving into **Web Development** (Frontend & Backend).
-- 🚀 Actively working with **Next.js**, **React**, and **Supabase**.
-- 🔍 Open to **Internship** opportunities where I can learn and grow.
-- ⚡ Fun fact: I love translating designs into clean, functional code!
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 To build seamless web applications, I utilize a diverse set of technologies, frameworks, and design tools:
@@ -102,7 +76,7 @@ To build seamless web applications, I utilize a diverse set of technologies, fra
     </td>
     <td align="center" width="96">
       <a href="https://www.atlassian.com/software/jira">
-        <img src="https://skillicons.dev/icons?i=jira" width="48" height="48" alt="Jira" />
+        <img src="https://skillicons.dev/icons?i=ae" width="48" height="48" alt="Jira" />
       </a>
       <br />Jira
     </td>
@@ -114,25 +88,3 @@ To build seamless web applications, I utilize a diverse set of technologies, fra
     </td>
   </tr>
 </table>
-
----
-
-### 🤝 Connect with Me
-
-I'm always open to discussing web development, collaboration opportunities, or internship openings. Let's connect!
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/revaldi-f-3b6183320/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  &nbsp;
-  <a href="mailto:revaldifirdaus28@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
-</p>
