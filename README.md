@@ -12,13 +12,13 @@
 
 ---
 
-### 💫 About Me
+### About Me
 
 I am a passionate **Information Systems Student** dedicated to building modern, responsive, and user-centric web applications. Currently, I'm focusing my learning on modern web development tech stacks and actively looking for **Web Developer Internship** opportunities to apply my skills, learn from industry experts, and contribute to impactful projects.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 To build seamless web applications, I utilize a diverse set of technologies, frameworks, and design tools:
 
@@ -111,7 +111,7 @@ To build seamless web applications, I utilize a diverse set of technologies, fra
 
 ---
 
-### 🤝 Connect with Me
+### Connect with Me
 
 I'm always open to discussing web development, collaboration opportunities, or internship openings. Let's connect!
 
