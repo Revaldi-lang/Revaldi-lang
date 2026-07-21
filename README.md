@@ -16,12 +16,6 @@
 
 I am a passionate **Information Systems Student** dedicated to building modern, responsive, and user-centric web applications. Currently, I'm focusing my learning on modern web development tech stacks and actively looking for **Web Developer Internship** opportunities to apply my skills, learn from industry experts, and contribute to impactful projects.
 
-- 🎓 Studying **Information Systems** (Sistem Informasi).
-- 💻 Deep diving into **Web Development** (Frontend & Backend).
-- 🚀 Actively working with **Next.js**, **React**, and **Supabase**.
-- 🔍 Open to **Internship** opportunities where I can learn and grow.
-- ⚡ Fun fact: I love translating designs into clean, functional code!
-
 ---
 
 ### 🛠️ Tech Stack & Tools
